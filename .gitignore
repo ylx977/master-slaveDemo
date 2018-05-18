@@ -1,0 +1,6 @@
+/target/
+/.idea/
+/.mvn/
+masterslave.iml
+mvnw
+mvnw.cmd
